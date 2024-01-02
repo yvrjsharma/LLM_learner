@@ -2,6 +2,10 @@
 Learning how to use, fine-tune and build with LLMs
 
 ## Resources
+### LLMs
+- [[1hr Talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+- [A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU)
+
 ### Fine-Tuning
 - [Finetuning open-source LLMs](https://www.youtube.com/watch?v=gs-IDg-FoIQ)https://www.youtube.com/watch?v=gs-IDg-FoIQ
 - [How to fine-tune Mistral 7b on your data](https://www.youtube.com/watch?v=kmkcNVvEz-k)https://www.youtube.com/watch?v=kmkcNVvEz-k
