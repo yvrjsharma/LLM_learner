@@ -35,9 +35,3 @@ Learning how to use, fine-tune and build with LLMs
 ### DDPO / TRL
 - [Finetune Stable Diffusion Models with DDPO via TRL](https://huggingface.co/blog/trl-ddpo)https://huggingface.co/blog/trl-ddpo
 - [Non-engineers guide: Train a LLaMA 2 chatbot](https://huggingface.co/blog/Llama2-for-non-engineers)https://huggingface.co/blog/Llama2-for-non-engineers
-- 
-
-
-
-
-
